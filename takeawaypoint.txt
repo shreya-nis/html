@@ -1,0 +1,23 @@
+format document with
+        install prettier extension
+        right click>> format dcument with>> configur default format>> prettier go 
+        to setting>> setting>> search format on save>> check format on save
+
+block element
+     always starts from a new line
+     consume all horizontal space
+     eg: p tag, h tag, div tag
+
+
+
+inline element
+      starts from available space
+      consumes required space only
+      eg: span tag, a tag, button tag
+
+ctrl+s = manage format
+
+CSS = Cascading Style Sheets
+
+inline-block = width and height change garna milxa
+inline= width and height change garna mildaina
